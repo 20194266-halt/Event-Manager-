@@ -1,0 +1,15 @@
+﻿  Client(test_message).cpp
+c:\users\dell\documents\eventmanager\client(test_message)\client(test_message).cpp(125): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\documents\eventmanager\client(test_message)\client(test_message).cpp(154): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\documents\eventmanager\client(test_message)\client(test_message).cpp(178): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\documents\eventmanager\client(test_message)\client(test_message).cpp(210): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\documents\eventmanager\client(test_message)\client(test_message).cpp(239): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\documents\eventmanager\client(test_message)\client(test_message).cpp(265): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\documents\eventmanager\client(test_message)\client(test_message).cpp(292): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\documents\eventmanager\client(test_message)\client(test_message).cpp(319): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\documents\eventmanager\client(test_message)\client(test_message).cpp(342): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\documents\eventmanager\client(test_message)\client(test_message).cpp(363): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\documents\eventmanager\client(test_message)\client(test_message).cpp(381): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\documents\eventmanager\client(test_message)\client(test_message).cpp(401): warning C4018: '<': signed/unsigned mismatch
+  Client(test_message).vcxproj -> C:\Users\DELL\Documents\EventManager\Debug\Client(test_message).exe
+  Client(test_message).vcxproj -> C:\Users\DELL\Documents\EventManager\Debug\Client(test_message).pdb (Full PDB)

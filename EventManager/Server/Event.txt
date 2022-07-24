@@ -1,0 +1,9 @@
+10000|hh|a|a|a|
+10001|q|q|q|q|
+10002|w|w|w|w|
+10003|baove|hust|26|s|
+10004|bvltm|hust|27|nj|
+10005|bv|h|ltm|d|
+10006|hh|hh|hh|hh|
+10007|ha|n|10004|j|
+10008|thiltm|hust|27|hk|

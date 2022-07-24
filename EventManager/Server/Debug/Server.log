@@ -1,0 +1,15 @@
+﻿  UserController.cpp
+c:\users\dell\documents\eventmanager\server\usercontroller.cpp(108): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\documents\eventmanager\server\usercontroller.cpp(160): warning C4018: '<': signed/unsigned mismatch
+  EventController.cpp
+c:\users\dell\documents\eventmanager\server\eventcontroller.cpp(101): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\documents\eventmanager\server\eventcontroller.cpp(147): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\documents\eventmanager\server\eventcontroller.cpp(239): warning C4101: 'beginindex': unreferenced local variable
+c:\users\dell\documents\eventmanager\server\eventcontroller.cpp(311): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\documents\eventmanager\server\eventcontroller.cpp(405): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\documents\eventmanager\server\eventcontroller.cpp(476): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\documents\eventmanager\server\eventcontroller.cpp(550): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+c:\users\dell\documents\eventmanager\server\eventcontroller.cpp(670): warning C4715: 'getEventInforById': not all control paths return a value
+  Server.vcxproj -> C:\Users\DELL\Documents\EventManager\Debug\Server.exe
+  Server.vcxproj -> C:\Users\DELL\Documents\EventManager\Debug\Server.pdb (Full PDB)

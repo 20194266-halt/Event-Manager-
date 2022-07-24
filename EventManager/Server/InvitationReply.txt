@@ -1,0 +1,5 @@
+manh|ha|10000|OK
+ha|manh|10003|OK
+ha|hoang|10003|OK
+ha|manh|10001|OK
+ha|manh|10000|OK
